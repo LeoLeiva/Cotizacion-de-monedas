@@ -1,9 +1,10 @@
 # Cotizacion-de-monedas
-Cotización de monedas en Argentina
+Python<br />
+Cotización de monedas de Argentina<br />
 
-Version 0.1 de cotizador de monedas
-Monedas hasta el momento:
-Dolar Oficial
-Dolar Blue
-Euro Oficial
-Euro Blue
+Version 0.1 de cotizador de monedas<br />
+Monedas hasta el momento:<br />
+Dolar Oficial<br />
+Dolar Blue<br />
+Euro Oficial<br />
+Euro Blue<br />
